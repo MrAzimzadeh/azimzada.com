@@ -29,26 +29,63 @@
         <!-- Horizontal Scrollbar -->
         <div class="col-md-6 col-sm-12">
             <div class="card overflow-hidden mb-4" style="height: 300px">
-                <h5 class="card-header">Horizontal Scrollbar</h5>
+                <h5 class="card-header">File</h5>
                 <div class="card-body ps ps--active-x" id="horizontal-example">
                     <div class="row">
-                        <div class="col-6">
-                            <iframe src="@Model.Input" frameborder="0"></iframe>
-                        </div>
-                        <div class="col-6">
-                            <a href="@Model.Input" target="_blank" class="link-dark">
-                                <button type="button" class="btn btn-primary d-block active" autocomplete="off"
-                                    aria-pressed="true">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                                        class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
-                                        <path fill-rule="evenodd"
-                                            d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z" />
-                                        <path fill-rule="evenodd"
-                                            d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z" />
-                                    </svg> Look
-                                </button>
-                            </a>
-                        </div>
+                        @if (Model.Input != "")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        {
+                            <div class="col-6">
+                                <iframe src="@Model.Input" frameborder="0"></iframe>
+                            </div>
+                            <div class="col-6">
+
+                                <a href="@Model.Input" target="_blank" class="link-dark">
+                                    <button type="button" class="btn btn-primary d-block active" autocomplete="off"
+                                        aria-pressed="true">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                            class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+                                            <path fill-rule="evenodd"
+                                                d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z" />
+                                            <path fill-rule="evenodd"
+                                                d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z" />
+                                        </svg> Look
+                                    </button>
+                                </a>
+                            </div>
+
+                        }
+
+
+
+
+
+
+
+
+
+                        else
+                        {
+                            <div class="container d-flex align-items-center justify-content-center">
+                                <iframe src="https://www.animatedimages.org/data/media/942/animated-anime-image-0199.gif"
+                                    frameborder="0"></iframe>
+                            </div>
+                            <div class="alert alert-primary" role="alert">File empty </div>
+                        }
                     </div>
                     <div class="ps__rail-x" style="width: 681px; left: 0px; bottom: 0px;">
                         <div class="ps__thumb-x" tabindex="0" style="left: 0px; width: 236px;"></div>
@@ -64,10 +101,10 @@
         <!-- Vertical & Horizontal Scrollbars -->
         <div class="col-12">
             <div class="card overflow-hidden" style="height: 500px">
-                <h5 class="card-header">All Horizontal Scrollbars</h5>
+                <h5 class="card-header">@Model.Name - Details</h5>
                 <div class="card-body ps ps--active-x ps--active-y" id="both-scrollbars-example">
                     <div class="row">
-                        <div class="col-3">
+                        <div class="col-6">
                             <b>Date Time <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                                     fill="currentColor" class="bi bi-calendar-day" viewBox="0 0 16 16">
                                     <path
@@ -77,7 +114,7 @@
                                 </svg> : </b> <span>@Model.StartingDate</span>
                         </div>
 
-                        <div class="col-3">
+                        <div class="col-6 end">
                             <b>End Time <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                                     fill="currentColor" class="bi bi-calendar-day" viewBox="0 0 16 16">
                                     <path
@@ -85,6 +122,45 @@
                                     <path
                                         d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1z" />
                                 </svg> : </b> <span>@Model.EndingDate</span>
+                        </div>
+                        <hr>
+                        <div class="col-6">
+                            @if (Model.Url != null)
+
+
+
+
+
+
+
+                            {
+                                <div class="mb-3">
+                                    <label class="form-label">Url</label>
+                                    <input class="form-control" type="text" placeholder="@Model.Url" readonly="">
+                                </div>
+                            }
+
+
+
+
+
+
+
+                            else
+
+
+
+
+
+
+
+                            {
+                                <div class="mb-3">
+                                    <iframe
+                                        src="https://www.animatedimages.org/data/media/942/animated-anime-image-0051.gif"
+                                        frameborder="0" style="border: none;" scrolling="no"></iframe>
+                                </div>
+                            }
                         </div>
                     </div>
                     <div class="ps__rail-x" style="width: 1388px; left: 0px; bottom: 0px;">
