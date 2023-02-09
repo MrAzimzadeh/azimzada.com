@@ -1,0 +1,35 @@
+@model Demo
+<div class="container">
+<div class="col-xxl">
+    <div class="card mb-4">
+        <div class="card-header d-flex align-items-center justify-content-between">
+            <h5 class="mb-0">Basic Layout</h5>
+            <small class="text-muted float-end">Default label</small>
+        </div>
+        <div class="card-body">
+            <form method="post" asp-controller="Demo" asp-action="Delete">
+                <div class="row mb-3">
+                    <label class="col-sm-2 col-form-label">Title</label>
+                    <div class="col-sm-10">
+                        <input type="text" readonly  class="form-control disabled "  placeholder="@Model.Name">
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label class="col-sm-2 col-form-label">Content</label>
+                    <div class="col-sm-10">
+                        <textarea readonly class="form-control bg-info"
+                            placeholder="@Model.Description?"
+                            aria-label="@Model.Description">
+                        </textarea>
+                    </div>
+                </div>
+                <div class="row justify-content-end">
+                    <div class="col-sm-10">
+                        <button type="submit" class="btn btn-primary">Send</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+</div

@@ -8,5 +8,7 @@
         public DateTime StartingDate { get; set; }
         public DateTime? EndingDate { get; set; }
         public string? Url { get; set; }
+        public string? Input { get; set; }
+        
     }
 }

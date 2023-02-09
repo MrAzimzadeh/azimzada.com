@@ -1,0 +1,72 @@
+@model List<Demo>
+<div class="container">
+    <!-- Bootstrap Dark Table -->
+    <hr>
+    <a href="/admin/Demo/create">
+        <button class="btn btn-primary btn-lg w-100" type="button">Create</button>
+    </a>
+    <div class="card">
+        <h5 class="card-header">WORK
+            EXPERIENCES </h5>
+        <div class="table-responsive text-nowrap">
+            <table class="table table-dark">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Title</th>
+                        <th>Description</th>
+                        <th>StartingDate - finish Date</th>
+                        <th>Url</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody class="table-border-bottom-0">
+                    @foreach (var work in Model)
+                    {
+                        <tr>
+                            <td>
+                                @work.Id
+                            </td>
+                            <td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>@work.Name</strong></td>
+                            <td>
+                                @Html.Raw(work.Description)
+                            </td>
+                            <td>
+                                <span> @work.StartingDate.ToString("dd.MM.yyyy " ) </span>
+                                <span>
+                                    @work.EndingDate.ToString()
+                                </span>
+                            </td>
+
+                            <td>
+                                <a href="@work.Url" class=""><span class="badge bg-label-primary me-1">
+                                        Link
+                                    </span>
+                                </a>
+                            </td>
+                            <td>
+                                <div class="dropdown">
+                                    <button type="button" class="btn p-0 dropdown-toggle hide-arrow"
+                                        data-bs-toggle="dropdown">
+                                        <i class="bx bx-dots-vertical-rounded"></i>
+                                    </button>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" href="javascript:void(0);"><i
+                                                class="bx bx-edit-alt me-1"></i> Edit</a>
+                                        <a class="dropdown-item text-danger" href="/admin/Demo/delete/@work.Id"><i
+                                                class="bx bx-trash me-1"></i>
+                                            Delete</a>
+                                        <a class="dropdown-item" href="/admin/Demo/Detail/@work.Id"><i
+                                                class="bx bx-detail me-1"></i>
+                                            Detail</a>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <!--/ Bootstrap Dark Table -->
+</div>
