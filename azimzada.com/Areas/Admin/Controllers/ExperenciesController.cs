@@ -71,8 +71,8 @@ namespace azimzada.com.Areas.Admin.Controllers
         public IActionResult Delete(Work work)
         {
             var delet = _context.Works.FirstOrDefault(x => x.Id == work.Id);
-            _context.Works.Remove(work);
-            _context.SaveChangesAsync();
+            _context.Works.Remove(delet);
+            _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
 
