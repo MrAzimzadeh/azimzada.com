@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ieRDH2HZV3INPN4BdM6RhLDB8ILsn2TAhocXavxC5C8=",
+  "Hash": "LaZ5GjCLQVBMkFuzCgXkj90VhhKnKHT/SKRlGaguYak=",
   "Source": "azimzada.com",
   "BasePath": "_content/azimzada.com",
   "Mode": "Default",
@@ -3279,6 +3279,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\scss\\vendors\\_typed.scss"
+    },
+    {
+      "Identity": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\Uploads\\084ae503-b028-4a90-8045-d8ec1d6565c3Məhəmməd_Əzimzadə_cv.pdf",
+      "SourceId": "azimzada.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\",
+      "BasePath": "_content/azimzada.com",
+      "RelativePath": "Uploads/084ae503-b028-4a90-8045-d8ec1d6565c3Məhəmməd_Əzimzadə_cv.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\084ae503-b028-4a90-8045-d8ec1d6565c3Məhəmməd_Əzimzadə_cv.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\Uploads\\4d656f50-34c3-491c-b487-3ad1b30eca56ozum.jpg",
+      "SourceId": "azimzada.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\",
+      "BasePath": "_content/azimzada.com",
+      "RelativePath": "Uploads/4d656f50-34c3-491c-b487-3ad1b30eca56ozum.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\4d656f50-34c3-491c-b487-3ad1b30eca56ozum.jpg"
     }
   ]
 }
