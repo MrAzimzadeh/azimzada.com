@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\azimzada.com.bundle.scp.css",
+      "PackagePath": "staticwebassets\\azimzada.com.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\Certifikate\\c_sharp_basic certificate (1).pdf",
+      "PackagePath": "staticwebassets\\Certifikate\\c_sharp_basic certificate (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\Certifikate\\css certificate.pdf",
+      "PackagePath": "staticwebassets\\Certifikate\\css certificate.pdf"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\Certifikate\\sql_basic certificate.pdf",
+      "PackagePath": "staticwebassets\\Certifikate\\sql_basic certificate.pdf"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\css\\custom.min.css",
+      "PackagePath": "staticwebassets\\css\\custom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\css\\kube.css",
+      "PackagePath": "staticwebassets\\css\\kube.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\css\\kube.min.css",
+      "PackagePath": "staticwebassets\\css\\kube.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\img\\Mehemmed-Ezimzadejpg.jpg",
+      "PackagePath": "staticwebassets\\img\\Mehemmed-Ezimzadejpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\img\\Mehemmed_Ezizmade.jpg",
+      "PackagePath": "staticwebassets\\img\\Mehemmed_Ezizmade.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\img\\ava.jpg",
+      "PackagePath": "staticwebassets\\img\\ava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\img\\code-commit-solid.svg",
+      "PackagePath": "staticwebassets\\img\\code-commit-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\img\\letter-a.png",
+      "PackagePath": "staticwebassets\\img\\letter-a.png"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\img\\responsive-min.png",
+      "PackagePath": "staticwebassets\\img\\responsive-min.png"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\img\\responsive.png",
+      "PackagePath": "staticwebassets\\img\\responsive.png"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\img\\separator.png",
+      "PackagePath": "staticwebassets\\img\\separator.png"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\accordion.js",
+      "PackagePath": "staticwebassets\\js\\accordion.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\autocomplete.js",
+      "PackagePath": "staticwebassets\\js\\autocomplete.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\buttons.js",
+      "PackagePath": "staticwebassets\\js\\buttons.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\check-all.js",
+      "PackagePath": "staticwebassets\\js\\check-all.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\dropdown.js",
+      "PackagePath": "staticwebassets\\js\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\filterbox.js",
+      "PackagePath": "staticwebassets\\js\\filterbox.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\infinite-scroll.js",
+      "PackagePath": "staticwebassets\\js\\infinite-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\kube.js",
+      "PackagePath": "staticwebassets\\js\\kube.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\kube.min.js",
+      "PackagePath": "staticwebassets\\js\\kube.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\livesearch.js",
+      "PackagePath": "staticwebassets\\js\\livesearch.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\message.js",
+      "PackagePath": "staticwebassets\\js\\message.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\modal.js",
+      "PackagePath": "staticwebassets\\js\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\navigation-fixed.js",
+      "PackagePath": "staticwebassets\\js\\navigation-fixed.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\navigation-toggle.js",
+      "PackagePath": "staticwebassets\\js\\navigation-toggle.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\progress.js",
+      "PackagePath": "staticwebassets\\js\\progress.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\textfit.js",
+      "PackagePath": "staticwebassets\\js\\textfit.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\typed.min.js",
+      "PackagePath": "staticwebassets\\js\\typed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\upload.js",
+      "PackagePath": "staticwebassets\\js\\upload.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\js\\validate.js",
+      "PackagePath": "staticwebassets\\js\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\scss\\custom.scss",
+      "PackagePath": "staticwebassets\\scss\\custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\scss\\partials\\_base.scss",
+      "PackagePath": "staticwebassets\\scss\\partials\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\scss\\partials\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\partials\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\scss\\partials\\_responsive.scss",
+      "PackagePath": "staticwebassets\\scss\\partials\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\scss\\partials\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\partials\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\mehem\\OneDrive\\Desktop\\Documents\\New folder\\azimzada.com\\azimzada.com\\wwwroot\\scss\\vendors\\_typed.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\_typed.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.azimzada.com.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.azimzada.com.props",
+      "PackagePath": "build\\azimzada.com.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.azimzada.com.props",
+      "PackagePath": "buildMultiTargeting\\azimzada.com.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.azimzada.com.props",
+      "PackagePath": "buildTransitive\\azimzada.com.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

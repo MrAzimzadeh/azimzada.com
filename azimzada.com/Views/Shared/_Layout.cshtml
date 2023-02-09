@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>azimzada.com</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Mahammad Azimzada's portfolio site">
+    <meta name="author" content="Mahammad Azimzada">
+    <meta name="keywords" content="Mahammad,azimzada , Məhəmməd, Əzimzadə ">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="~/css/kube.css" />
+    <link rel="stylesheet" href="~/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/css/custom.min.css" />
+    <link rel="shortcut icon" href="~/img/letter-a.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+          integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href='http://fonts.googleapis.com/css?family=Playfair+Display+SC:700' rel='stylesheet' type='text/css'>
+
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <!-- ! Menu Start -->
+    <!-- <link rel="canonical" href="https://examples.bootscore.me/bootstrap-offcanvas-navbar/"> -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <!-- Menu Finsh -->
+
+</head>
+
+<body style="background-color: #000000;">
+    <!-- Navigation -->
+    <div class="main-nav">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+            <div class="container">
+                <a class="navbar-brand" href="/">
+                    Azizmada.Com
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas"
+                        data-bs-target="#offcanvasNavbarExample-expand-lg" aria-controls="offcanvasNavbarExample-expand-lg">
+                    <span class="navbar-toggler-icon" data-bs-target="#offcanvasNavbarExample-expand-lg"></span>
+                </button>
+                <div class="offcanvas offcanvas-start bg-dark" data-bs-hideresize="true" tabindex="-1"
+                     id="offcanvasNavbarExample-expand-lg" aria-labelledby="offcanvasNavbarExample-expand-lgLabel">
+                    <div class="offcanvas-header">
+                        <h5 class="offcanvas-title" id="offcanvasLabel">
+                            Be tolerant!
+                            <i class="fa-solid fa-yin-yang"></i>
+                        </h5>
+                        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
+                                aria-label="Close"></button>
+                    </div>
+                    <div class="offcanvas-body bg-dark">
+                        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="/">Home</a>
+                            </li>
+                            <!-- <li class="nav-item">
+                                <a class="nav-link" href="#about">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#skills">Skills</a>
+                            </li> -->
+
+                            <li class="nav-item">
+                                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                            </li>
+                        </ul>
+                        <form class="d-flex m-0">
+                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-light" type="submit">Search</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+
+    @RenderBody();
+    <footer>
+        <div class="container">
+            <div class="units-row">
+                <div class="unit-50">
+                    <p>Copyright &copy; 2021-2023</p>
+                </div>
+                <div class="unit-50">
+                    <ul class="social list-flat right p-0">
+                        <li><a href="mailto:azimzada.mahammad@gmail.com"><i class="fa fa-send"></i></a></li>
+                        <li><a href="https://github.com/MrAzimzadeh"><i class="fa-brands fa-github"></i></a></li>
+                        <li><a href="http://dribbble.com/flamekaizar"><i class="fa-brands fa-instagram"></i></a></li>
+                        <li><a href="https://dev.to/mrazimzadeh"><i class="fa-brands fa-dev"></i></a></li>
+                        <li>
+                            <a href="https://stackoverflow.com/users/20333896/m%c9%99h%c9%99mm%c9%99d-%c6%8fzimzad%c9%99">
+                                <i class="fa-brands fa-stack-overflow"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Javascript -->
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/typed.min.js"></script>
+    <!-- <script src="js/kube.min.js"></script>
+    <script src="js/site.js"></script> -->
+    @{
+        var link = "@popperjs";
+    }
+    <script src="https://cdn.jsdelivr.net/npm/@link/core@2.9.2/dist/umd/popper.min.js"
+            integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+            integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
+            crossorigin="anonymous"></script>
+    <script>
+        function newTyped() { } $(function () {
+            $("#typed").typed({
+                // Change to edit type effect
+                strings: [".Net", "Backend development", "css", "Html", "Sql Server"],
+
+                typeSpeed: 90, backDelay: 700, contentType: "html", loop: !0, resetCallback: function () { newTyped() }
+            }), $(".reset").click(function () { $("#typed").typed("reset") })
+        });
+    </script>
+@*    <script src="//code.tidio.co/wtwvirtdq5gto6zujfblbrryituiskwt.js" async></script>
+    <a href="https://www.buymeacoffee.com/mehemmedezZ">
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mehemmedezZ&button_colour=a3a3a3&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" />
+    </a>
+ *@
+</body>
+
+</html>
