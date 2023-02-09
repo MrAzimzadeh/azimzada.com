@@ -1,12 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 using azimzada.com.Data;
 using azimzada.com.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 
 namespace azimzada.com.Areas.Admin.Controllers
 {
@@ -16,14 +10,12 @@ namespace azimzada.com.Areas.Admin.Controllers
         private readonly ILogger<ExperenciesController> _logger;
         private readonly AppDbContext _context;
         private readonly IWebHostEnvironment _env;
-
         public ExperenciesController(ILogger<ExperenciesController> logger, AppDbContext context, IWebHostEnvironment env)
         {
             _logger = logger;
             _context = context;
             _env = env;
         }
-
         public IActionResult Index()
         {
             var workExpre = _context.Works.OrderByDescending(x => x.Id).ToList();
@@ -34,15 +26,24 @@ namespace azimzada.com.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-
         public IActionResult Create(string name, string description, DateTime startingDate, DateTime endingDate, string url, IFormFile photo)
         {
-            var path = "/uploads/" + Guid.NewGuid() + photo.FileName;
-            using (var fileStream = new FileStream(_env.WebRootPath + path, FileMode.Create))
-            {
-                photo.CopyTo(fileStream);
-            }
+
             Work work = new Work();
+
+            if (photo != null)
+            {
+                var path = "/uploads/" + Guid.NewGuid() + photo.FileName;
+                using (var fileStream = new FileStream(_env.WebRootPath + path, FileMode.Create))
+                {
+                    photo.CopyTo(fileStream);
+                }
+                work.Input = path;
+            }
+            else
+            {
+                work.Input = "";
+            }
             work.Name = name;
             work.Description = description;
             work.StartingDate = startingDate;
@@ -55,12 +56,10 @@ namespace azimzada.com.Areas.Admin.Controllers
             {
                 work.Url = url;
             }
-            work.Input = path;
             _context.Works.Add(work);
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
-
         public IActionResult Delete(int id)
         {
 
@@ -75,7 +74,11 @@ namespace azimzada.com.Areas.Admin.Controllers
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
-
+        public IActionResult Detail(int id)
+        {
+            var detail = _context.Works.FirstOrDefault(x => x.Id == id);
+            return View(detail);
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
