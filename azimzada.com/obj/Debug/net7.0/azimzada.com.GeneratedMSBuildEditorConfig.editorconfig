@@ -16,6 +16,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\mehem\OneDrive\Desktop\azimzada.com\azimzada.com
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/mehem/OneDrive/Desktop/azimzada.com/azimzada.com/Areas/Admin/Views/Award/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXdhcmRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehem/OneDrive/Desktop/azimzada.com/azimzada.com/Areas/Admin/Views/Award/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXdhcmRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehem/OneDrive/Desktop/azimzada.com/azimzada.com/Areas/Admin/Views/Award/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXdhcmRcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehem/OneDrive/Desktop/azimzada.com/azimzada.com/Areas/Admin/Views/Award/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXdhcmRcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mehem/OneDrive/Desktop/azimzada.com/azimzada.com/Areas/Admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,22 +70,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/mehem/OneDrive/Desktop/azimzada.com/azimzada.com/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mehem/OneDrive/Desktop/azimzada.com/azimzada.com/Areas/Admin/Views/Skills/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2tpbGxzXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mehem/OneDrive/Desktop/azimzada.com/azimzada.com/Areas/Admin/Views/Skills/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2tpbGxzXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mehem/OneDrive/Desktop/azimzada.com/azimzada.com/Areas/Admin/Views/Skills/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2tpbGxzXERldGFpbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mehem/OneDrive/Desktop/azimzada.com/azimzada.com/Areas/Admin/Views/Skills/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2tpbGxzXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mehem/OneDrive/Desktop/azimzada.com/azimzada.com/Areas/Admin/Views/_ViewImports.cshtml]

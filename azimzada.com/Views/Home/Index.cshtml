@@ -80,47 +80,32 @@
 <div class="award section second" id="achievements">
     <div class="container">
         <h1>Award &amp;<br>Achievements</h1>
-        <ul class="award-list list-flat">
-            <li>12/12/2022</li>
-            <li>Google dijital </li>
-            <li>
-                E-Commerce course
-            </li>
-
-        </ul>
-        <ul class="award-list list-flat">
-            <li>1/20/203</li>
-            <li>HackerRank</li>
-            <li>
-                c# (basic)
-                <a href="Certifikate/c_sharp_basic certificate (1).pdf	" target="_blank" style="color: #c61a00;">
-                    <i class="fa-solid fa-image"></i>
-                </a>
-            </li>
-
-        </ul>
-        <ul class="award-list list-flat">
-            <li>1/20/203</li>
-            <li>HackerRank</li>
-            <li>
-                SQL (Basic)
-                <a href="Certifikate/sql_basic certificate.pdf" target="_blank" style="color: #c61a00;">
-                    <i class="fa-solid fa-image"></i>
-                </a>
-            </li>
-
-        </ul>
-        <ul class="award-list list-flat">
-            <li>1/20/203</li>
-            <li>HackerRank</li>
-            <li>
-                Cascading Style Sheets (CSS)
-                <a href="Certifikate/css certificate.pdf" target="_blank" style="color: #c61a00;">
-                    <i class="fa-solid fa-image"></i>
-                </a>
-            </li>
-
-        </ul>
+        @foreach (var skillis in Model.awards)
+        {
+            <ul class="award-list list-flat">
+                <li>@skillis.DateTime.ToString("dd.MM.yyyy")</li>
+                <li>@skillis.Title</li>
+                <li>
+                    <a href="@skillis.Url" target="_blank" class="text-white m-sm-1">
+                        @skillis.Description
+                    </a>
+                </li>
+                <li>
+                    <a href="@skillis.PhotoUrl" target="_blank">
+                        <button type="button" class="btn btn-secondary" disabled>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd"
+                                    d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z" />
+                                <path fill-rule="evenodd"
+                                    d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z" />
+                            </svg>
+                            enter
+                        </button>
+                    </a>
+                </li>
+            </ul>
+        }
     </div>
 </div>
 <hr>

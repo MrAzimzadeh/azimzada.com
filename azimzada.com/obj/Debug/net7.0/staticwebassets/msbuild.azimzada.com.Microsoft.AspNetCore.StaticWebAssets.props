@@ -3104,6 +3104,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\4d656f50-34c3-491c-b487-3ad1b30eca56ozum.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\6c2fa43d-7574-451c-a249-5c426ad5a92822585.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>azimzada.com</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/azimzada.com</BasePath>
+      <RelativePath>Uploads/6c2fa43d-7574-451c-a249-5c426ad5a92822585.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\6c2fa43d-7574-451c-a249-5c426ad5a92822585.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\89223d74-a3c4-4a0c-a10f-7b8a6f54ccb6artificial-intelligence-4389372.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>azimzada.com</SourceId>
@@ -3120,6 +3136,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\89223d74-a3c4-4a0c-a10f-7b8a6f54ccb6artificial-intelligence-4389372.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\d716ebe3-6d6f-4ae9-bbca-2cec35c24019Tapsiriq.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>azimzada.com</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/azimzada.com</BasePath>
+      <RelativePath>Uploads/d716ebe3-6d6f-4ae9-bbca-2cec35c24019Tapsiriq.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\d716ebe3-6d6f-4ae9-bbca-2cec35c24019Tapsiriq.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\dcb41850-9644-4c2e-9e2f-f78450485f06ozum.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>azimzada.com</SourceId>
@@ -3135,6 +3167,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\dcb41850-9644-4c2e-9e2f-f78450485f06ozum.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\f3bed118-c85c-4e70-845f-7669e60a994bc_sharp_basic certificate (1).pdf))">
+      <SourceType>Package</SourceType>
+      <SourceId>azimzada.com</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/azimzada.com</BasePath>
+      <RelativePath>Uploads/f3bed118-c85c-4e70-845f-7669e60a994bc_sharp_basic certificate (1).pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\f3bed118-c85c-4e70-845f-7669e60a994bc_sharp_basic certificate (1).pdf))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>
