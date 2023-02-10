@@ -1,11 +1,7 @@
-﻿@{
+﻿@model HomeVM
+@{
     ViewData["Title"] = "Home Page";
 }
-
-
-
-
-
 <style>
     .intro h1:before {
         /* Edit this with your name or anything else */
@@ -47,22 +43,36 @@
             <i class="fa-solid fa-globe"></i>
             && Demos<i class="fa-solid fa-laptop"></i>
         </h1>
-        <ul class="work-list">
-            <li>2021 - 2022</li>
-            <li><a href="https://alyansfc.com " target="_blank">Alyans Fc </a></li>
-            <li>Web Designer</li>
-        </ul>
-        <ul class="work-list">
-            <li>2022</li>
-            <li><a href="http://blackscorpi.com/">Blackscorpi E-Commerce</a></li>
-            <li>Wordpress</li>
-        </ul>
-        <ul class="work-list">
-            <li>2014-2015</li>
-            <li>Demos <i class="fa-solid fa-laptop"></i></li>
-            <li><a href="#">Garuda Indonesia</a></li>
-            <li>System Designer</li>
-        </ul>
+        @foreach (var work in Model.Works)
+        {
+            <ul class="work-list">
+                <li>
+                    @work.StartingDate.ToString("yyyy")
+                    @{
+                        string dateString = @work.EndingDate?.ToString("yyyy") ?? "";
+                    }
+                </li>
+                <li>
+                    <a href="@work.Url" target="_blank"> @work.Name </a>
+                </li>
+                <li>@work.Description</li>
+            </ul>
+        }
+        @foreach (var demos in Model.Demos)
+        {
+            <ul class="work-list">
+                <li>
+                    @demos.StartingDate.ToString("yyyy")
+                    @{
+                        string dateString = @demos.EndingDate?.ToString("yyyy") ?? "";
+                    }
+                </li>
+                <li>
+                    <a href="@demos.Url" target="_blank"> @demos.Name </a>
+                </li>
+                <li>@demos.Description</li>
+            </ul>
+        }
     </div>
 </div>
 <hr>
