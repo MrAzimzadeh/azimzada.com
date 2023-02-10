@@ -24,7 +24,8 @@
 
   <!-- Icons. Uncomment required icon fonts -->
   <link rel="stylesheet" href="~/admin/assets/vendor/fonts/boxicons.css" />
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 
   <!-- Core CSS -->
   <link rel="stylesheet" href="~/admin/assets/vendor/css/core.css" class="template-customizer-core-css" />
@@ -44,6 +45,9 @@
   <!--! Template customizer & Theme config files MUST be included after core stylesheets and helpers.js in the <head> section -->
   <!--? Config:  Mandatory theme config file contain global vars & default theme options, Set your preferred theme option in this file.  -->
   <script src="~/admin/assets/js/config.js"></script>
+
+
+
 </head>
 
 <body>
@@ -97,7 +101,7 @@
               <li class="menu-item">
                 <a href="/admin/Award/index" class="menu-link">
                   <div data-i18n="Container">Award</div>
-                </a>  
+                </a>
               </li>
               <li class="menu-item">
                 <a href="/admin/Skills/index" class="menu-link">
@@ -112,21 +116,23 @@
             </ul>
           </li>
 
-          
-          
+
+
           <!-- Components -->
-          
+
           <!-- User interface -->
-          
+
 
           <!-- Extended components -->
-          
+
 
           <!-- Forms & Tables -->
-          @* <li class="menu-header small text-uppercase"><span class="menu-header-text">Forms &amp; Tables</span></li> *@
+          @* <li class="menu-header small text-uppercase"><span class="menu-header-text">Forms &amp; Tables</span></li>
+          *@
           <!-- Forms -->
-          
-          <!-- Tables --></ul>
+
+          <!-- Tables -->
+        </ul>
 
       </aside>
       <!-- / Menu -->
@@ -265,8 +271,7 @@
   <!-- / Layout wrapper -->
 
   <div class="buy-now">
-    <a href="#" target="_blank"
-      class="btn btn-danger btn-buy-now"></a>
+    <a href="#" target="_blank" class="btn btn-danger btn-buy-now"></a>
   </div>
 
   <!-- Core JS -->
@@ -290,6 +295,7 @@
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <script async defer src="https://buttons.github.io/buttons.js"></script>
+    @RenderSection("Scripts" , false)
 </body>
 
 </html>
