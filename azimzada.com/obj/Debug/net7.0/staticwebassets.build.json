@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "00KCr7AiioZqmABwa/3eZemrvC+euwicwpWQaQza84k=",
+  "Hash": "uTQ0Vj2af3AWAKUYCoMxVBg9SrTtQSa9Seg/jrjhP+I=",
   "Source": "azimzada.com",
   "BasePath": "_content/azimzada.com",
   "Mode": "Default",
@@ -3347,6 +3347,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\89223d74-a3c4-4a0c-a10f-7b8a6f54ccb6artificial-intelligence-4389372.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\Uploads\\dcb41850-9644-4c2e-9e2f-f78450485f06ozum.jpg",
+      "SourceId": "azimzada.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\",
+      "BasePath": "_content/azimzada.com",
+      "RelativePath": "Uploads/dcb41850-9644-4c2e-9e2f-f78450485f06ozum.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\dcb41850-9644-4c2e-9e2f-f78450485f06ozum.jpg"
     }
   ]
 }
