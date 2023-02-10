@@ -12,8 +12,9 @@ namespace azimzada.com.Data
         public DbSet<Introduction> Introductions { get; set; }
         public DbSet<Quote> Quotes { get; set; }
         public DbSet<Work> Works { get; set; }
+        public DbSet<Skill> Skills { get; set;}
 
-        
+
 
     }
 }

@@ -18695,6 +18695,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\Areas\\Admin\\Views\\Skills\\index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Skills\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\Areas\\Admin\\Views\\Demo\\Create.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\Demo\\Create.cshtml",
       "FileKind": "mvc"

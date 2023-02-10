@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RmccGYAOcNMkbOXAtMaIV65oKlpj3eUnnZUaajPkcn4=",
+  "Hash": "Q1doHtRCvp5cphfLOvURSArrwQJIJeZJpSBMI5g8l1M=",
   "Source": "azimzada.com",
   "BasePath": "_content/azimzada.com",
   "Mode": "Default",
@@ -3332,6 +3332,23 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\4d656f50-34c3-491c-b487-3ad1b30eca56ozum.jpg"
     },
     {
+      "Identity": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\Uploads\\6457f648-f49c-4f46-b6da-6660b4d53d18Twitter Post.png",
+      "SourceId": "azimzada.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\",
+      "BasePath": "_content/azimzada.com",
+      "RelativePath": "Uploads/6457f648-f49c-4f46-b6da-6660b4d53d18Twitter Post.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\6457f648-f49c-4f46-b6da-6660b4d53d18Twitter Post.png"
+    },
+    {
       "Identity": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\Uploads\\6c2fa43d-7574-451c-a249-5c426ad5a92822585.jpg",
       "SourceId": "azimzada.com",
       "SourceType": "Discovered",
@@ -3364,6 +3381,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\89223d74-a3c4-4a0c-a10f-7b8a6f54ccb6artificial-intelligence-4389372.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\Uploads\\9e1c1f90-07a5-45fa-b9a5-03a0df3dd979Screenshot_20230129_121819.png",
+      "SourceId": "azimzada.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\",
+      "BasePath": "_content/azimzada.com",
+      "RelativePath": "Uploads/9e1c1f90-07a5-45fa-b9a5-03a0df3dd979Screenshot_20230129_121819.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\9e1c1f90-07a5-45fa-b9a5-03a0df3dd979Screenshot_20230129_121819.png"
+    },
+    {
+      "Identity": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\Uploads\\9fe78600-b426-476e-9520-72090a5a553fFacebook Gönderisi.png",
+      "SourceId": "azimzada.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\",
+      "BasePath": "_content/azimzada.com",
+      "RelativePath": "Uploads/9fe78600-b426-476e-9520-72090a5a553fFacebook Gönderisi.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\9fe78600-b426-476e-9520-72090a5a553fFacebook Gönderisi.png"
     },
     {
       "Identity": "C:\\Users\\mehem\\OneDrive\\Desktop\\azimzada.com\\azimzada.com\\wwwroot\\Uploads\\d716ebe3-6d6f-4ae9-bbca-2cec35c24019Tapsiriq.jpg",
