@@ -21,11 +21,13 @@ namespace azimzada.com.Controllers
             var works = _context.Works.OrderByDescending(x => x.Id).ToList();
             var demos = _context.Demos.OrderByDescending(x => x.EndingDate).ToList();
             var awards = _context.Awards.OrderByDescending(x=>x.DateTime).ToList();
+            var skillis = _context.Skills.OrderByDescending(x=>x.Id).ToList();
             HomeVM homeVm = new HomeVM()
             {
                 Works = works,
                 Demos = demos,
-                awards = awards
+                awards = awards,
+                Skills = skillis
             };
             return View(homeVm);
         }
